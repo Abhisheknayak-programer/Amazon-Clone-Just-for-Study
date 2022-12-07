@@ -10,7 +10,7 @@ export default function Home(props) {
       <Head>
         <title>Amazon Clone By Abhishek Nayak</title>
       </Head>
-
+      
       {/* HEADER COMPONENT */}
       <Header />
 
